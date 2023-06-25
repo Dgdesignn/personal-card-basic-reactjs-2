@@ -1,0 +1,77 @@
+.card-phto{
+    height: 19rem;
+    overflow: hidden;
+}
+.card{
+    width: 19.8rem;
+    border-radius: 9px;
+    overflow: hidden;
+    background-color: #1A1B21;
+}
+
+.card-content{
+    padding: 1.5rem 2.5rem;
+}
+
+.card-apresentation{
+    text-align: center;
+}
+
+.card-apresentation h1{
+    font-size: 1.5rem;
+}
+.card-apresentation h4{
+    font-size: .8rem;
+}
+
+.card-apresentation h1+p{
+    font-size: .8rem;
+    margin-bottom: .6rem;
+    margin-top: .2rem;
+    color: #F3BF99;
+}
+
+ p{
+    font-size: .68rem;
+    color: #F5F5F5;
+    margin-bottom: .8rem;
+}
+
+.card-email-btn{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: .5rem;
+    padding: .58rem;
+    border-radius: 6px;
+    color:#374151;
+    cursor: pointer;
+    font-weight:600;
+    background-color: #FFF;;
+    font-size: .8rem;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+    margin-bottom: 2rem;
+}
+
+h3{
+    font-size:1rem;
+    font-weight: 700;
+    line-height: 150%;
+    color: #F5F5F5;
+}
+
+.card-about p,.card-interest p{
+    font-weight: 300;
+    line-height: 1rem;
+}
+
+
+
+footer{
+    background-color: #161619;
+    padding: 1rem 2.5rem;
+    display: flex;
+    justify-content: center;
+    gap:2rem;
+    font-size: 1.5rem;
+}
